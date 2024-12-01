@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseFirstUse1</string>
+    <string name="app_in_name">Окно регистрации</string>
+    <string name="text_bottom">Войдите в свою учётную запись</string>
+    <string name="ButtonSignIn">Войти</string>
+    <string name="ButtonRegister">Зарегестрироваться</string>
+    <string name="ButtonBack">Вернуться на главную</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_bottom">#48D1CC</color>
+    <color name="ripple_effect">#FF4500</color>
+    <color name="btn_sign">#B22222</color>
+    <color name="btn_sign_stroke">#FA8072</color>
+    <color name="btn_register">#D2691E</color>
+    <color name="btn_register_stroke">#CD853F</color>
+</resources>
